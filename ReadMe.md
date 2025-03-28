@@ -32,7 +32,7 @@ OPENWEATHER_API_KEY="your_api_key_here"
 - Train model on historical data
 - Save trained model
 - Get 5-day forecasts
-- Make predictions
+- Make predictions using the saved model
 
 ## API Key Setup
 - Get free API key from OpenWeatherMap
