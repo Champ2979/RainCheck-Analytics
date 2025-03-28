@@ -15,7 +15,7 @@ A Gaussian Naive Bayes machine learning model for weather prediction in Seattle 
 1. Clone repository:
 ```bash
 git clone https://github.com/yourusername/seattle-weather-prediction.git
-cd WEATHER-PREDICTION-MODEL
+cd RainCheck-Analytics
 
 ```
 ## Install Dependencies
